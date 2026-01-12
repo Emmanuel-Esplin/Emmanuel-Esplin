@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Emmanuel Esplin
 
-<!--
-**Emmanuel-Esplin/Emmanuel-Esplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Engineer | Business Informatics Student | Automation & Data Systems Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Studying **Business Informatics** with a focus on data engineering concepts
+- 🔍 Interested in **ETL pipelines**, **data warehousing**, and **cloud platforms**
+- 🌱 Currently learning **Python**, **SQL**, **TypeScript**, and exploring **Big Data tools**
+- 📚 Passionate about building scalable data solutions and improving data quality
+
+
+## 🛠️ Tech Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-FF8000?logo=mysql&logoColor=white)](https://www.mysql.com)
+https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white](https://typescriptlang.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+
+
+### 💡 Fun Fact
+*"Data is the new oil, but pipelines make it flow!"*
+
