@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Emmanuel Esplin
+# 👋 Hi, I’m Emmanuel 
 
 **Aspiring Data Engineer | Business Informatics Student | Automation & Data Systems Enthusiast**
 
