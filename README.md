@@ -2,7 +2,7 @@
 
 **Business Analyst Intern at Fortress Real Estate Investments, moving into data engineering.**
 
-At work I gather requirements and lead user acceptance testing on automation projects, including the budget process and key Power BI reports. In my own projects I build the pipelines behind that kind of reporting: ingestion, validation, modelling and the checks that keep the data reliable.
+At work I focus on feature enhancements to Fortress's internal application, gathering requirements and leading user acceptance testing for current and upcoming features. I also work on automating the budget process and key Power BI reports. In my own projects I build the pipelines behind that kind of reporting: ingestion, validation, modelling and the checks that keep the data reliable.
 
 **[Portfolio](https://emmanuel-esplin.github.io)** · **[Printable CV](https://emmanuel-esplin.github.io/cv)**
 
@@ -26,7 +26,7 @@ An end-to-end batch pipeline that takes 11.2M NYC taxi records from raw files to
 | Project | Description | Stack |
 | --- | --- | --- |
 | [portfolio-api-tests](https://github.com/Emmanuel-Esplin/portfolio-api-tests) | API tests for my portfolio site and the GitHub REST API, with a bounded self-heal layer that records every retry and a nightly strict run | Playwright, TypeScript, zod |
-| [SQL-Projects](https://github.com/Emmanuel-Esplin/SQL-Projects) | Database design and querying, including a general ledger with staging, core and mart layers, plus a diamond company database with procedures, triggers and views | MySQL, PostgreSQL |
+| [SQL-Projects](https://github.com/Emmanuel-Esplin/SQL-Projects) | Diamond Tracker, a web app on a MySQL database with procedures, triggers and views, plus a general ledger model and SQL exercises | MySQL, FastAPI, PostgreSQL |
 | [de-cookbook-practice](https://github.com/Emmanuel-Esplin/de-cookbook-practice) | Spark recipes worked through from Packt's *Data Engineering with Databricks Cookbook*, organised as Gradle modules with tests and CI | PySpark, Delta Lake, Gradle |
 | [Python_Projects](https://github.com/Emmanuel-Esplin/Python_Projects) | Data analysis, statistics and machine learning scripts, plus automation utilities | pandas, scikit-learn, XGBoost |
 | [Data_Science_Fundamentals](https://github.com/Emmanuel-Esplin/Data_Science_Fundamentals) | Reproducible notebooks on NumPy, pandas and introductory machine learning, run by CI | Jupyter, pandas, scikit-learn |
@@ -59,6 +59,7 @@ An end-to-end batch pipeline that takes 11.2M NYC taxi records from raw files to
 
 **Tools & Platforms**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
